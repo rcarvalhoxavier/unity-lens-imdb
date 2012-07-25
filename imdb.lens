@@ -1,0 +1,11 @@
+[Lens]
+DBusName=unity.singlet.lens.imdb
+DBusPath=/unity/singlet/lens/imdb
+Name=Imdb
+Icon=/usr/share/unity/lenses/imdb/unity-lens-imdb.svg
+Description=Imdb Lens
+SearchHint=Search Imdb
+#Shortcut=c
+
+[Desktop Entry]
+X-Ubuntu-Gettext-Domain=imdb
